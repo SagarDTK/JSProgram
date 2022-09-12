@@ -26,3 +26,5 @@ for(x of fruits)
 {
     console.log(x);
 }
+
+console.log("cars");
