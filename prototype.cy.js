@@ -2,7 +2,7 @@ let EmpDetails=function(name,age)
 {
     this.name=name;
     this.age=age;
-};
+};                  
 
 EmpDetails.prototype.getName=function()
 {
