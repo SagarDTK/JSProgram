@@ -21,4 +21,4 @@ switch(starrating)
         console.log(' Enter valid rating between 1 to 5 :');
 }
 
-console.log(' Enter valid rating between 1 to 5 :');
+console.log(' Enter valid rating');
